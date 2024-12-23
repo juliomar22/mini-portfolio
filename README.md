@@ -6,7 +6,7 @@ Um projeto para a criação de um mini portfólio pra desenvolvedores iniciantes
 
 # Font family para utilização
 
-- Family: [VT323](https://fonts.googleapis.com/css2?family=VT323)
+- Family: [Outfit](https://fonts.googleapis.com/css2?family=Outfit)
 
 # Linguagens
 

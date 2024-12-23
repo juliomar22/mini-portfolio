@@ -1,5 +1,5 @@
 body {
-	font-family: 'VT323', monospace;
+	font-family: 'Outfit', monospace;
 
 	background-image: url(../imagens/fundo-site.jpg);
 	background-size: cover;
@@ -18,7 +18,7 @@ body {
 .cartao {
 	background-color: #070d12;
 	width: 370px;
-	border: 2px solid #e126d9;
+	border: 2px solid #100261;
 	border-radius: 10px;
 	overflow: hidden;
 }
@@ -33,7 +33,7 @@ body {
 
 .cartao .minhas-informacoes img {
 	border-radius: 50px;
-	box-shadow:0 0 1em #e126d9;
+	box-shadow:0 0 1em #4826e1;
 }
 
 .cartao .minhas-informacoes .nome {
